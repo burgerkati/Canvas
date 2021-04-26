@@ -1,6 +1,6 @@
-# Contents of Canvas1 repository:
+# Contents of Canvas repository:
 * index.html and main.js for each directory
-* house.png car.png iceCream.png ovni.png biscuit.png provided by:
+* house.png car.png iceCream.png ovni.png biscuit.png provided by: [@GhostCodeur](https://github.com/GhostCodeur)
 ## Exercices Canvas
 ### Exercice 1
 Reproduire la maison
